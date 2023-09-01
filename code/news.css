@@ -2,14 +2,14 @@
 #mainbody
 {
     background-color: aquamarine;
-    background: scroll;
+    background: fixed;
     width: 1300px;
     height: 768px;
 }
 
 #header
 {
-    background-color: #000000;
+    background-color : #0ba8f0;
     background: fixed;
     width: 1300px;
     height: 50px;
@@ -58,7 +58,7 @@
 {
     background-color: #e1dddd;
     width: 200px;
-    height: 100px;
+    height: 50px;
     margin: 0px;
     padding: 0px;
     float: left;
